@@ -70,3 +70,7 @@ This guide is provided as-is for educational purposes. Feel free to use, share, 
 ---
 
 **Happy coding!** 🎉
+
+---
+
+Made with ❤️ by Kinter
